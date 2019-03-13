@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="PasteIt">
+    <output-path>$PROJECT_DIR$/out/artifacts/PasteIt</output-path>
+    <root id="archive" name="PasteIt.jar">
+      <element id="javaee-facet-resources" facet="PasteIt/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="PasteIt" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
