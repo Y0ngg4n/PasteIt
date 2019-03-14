@@ -1,0 +1,9 @@
+Spring\Controller\PasteController.class
+Spring\Application.class
+Spring\Controller\Objects\PasteObject.class
+Main\Crypto.class
+Installation\RubyInstallation.class
+Spring\DB\Paste.class
+Main\Main.class
+Language\LanguageDetector.class
+Main\FileManager.class

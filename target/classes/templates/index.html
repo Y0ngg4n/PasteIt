@@ -1,0 +1,14 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8"/>
+    <title>Getting Started: Serving Web Content</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+<form action="#" th:action="@{/pastes/${pasteobject.uuid}}" th:object="${pasteobject}" method="post">
+    <textarea type="text" id="text" th:field="*{text}"></textarea>
+    <input type="submit" value="text">Paste it!</input>
+</form>
+</body>
+</html>

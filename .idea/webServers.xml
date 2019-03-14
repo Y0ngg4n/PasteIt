@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="93ca56fb-2e9c-40ae-b7f9-f96fbde66ce8" name="Nexus" url="https://paste.oblivioncoding.pro">
+        <fileTransfer host="oblivioncoding.pro" port="37225" privateKey="C:\Users\aschuele\Documents\ssh\yonggan.ppk" rootFolder="/home/yonggan" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="37225" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
